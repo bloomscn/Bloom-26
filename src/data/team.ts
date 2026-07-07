@@ -1,0 +1,137 @@
+import type { SectionIntro, TeamMember } from "../types/content";
+
+export const teamIntro: SectionIntro = {
+  label: "Meet the Team",
+  heading: "The people behind Bloom '26",
+  description:
+    "Meet the passionate volunteers and leaders working together to make Bloom a success.",
+};
+
+export const teamMembers: TeamMember[] = [
+  {
+    name: "Christle Salgado",
+    position: "Event Manager",
+    photo: "/images/team/ChristleSalgado.jpg",
+    email: "christle.salgado@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/christle-salgado/",
+  },
+  {
+    name: "Bhanuka Induwara",
+    position: "Event Manager",
+    photo: "/images/team/BhanukaInduwara.jpg",
+    email: "bhanuka.induwara@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/bhanuka-induwara-11b212355",
+  },
+  {
+    name: "Sasiru Randeni",
+    position: "President",
+    photo: "/images/team/SasiruRandeni.jpg",
+    email: "sasiru.randeni@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/sasirurandeni",
+  },
+  {
+    name: "Dilekha Nethmini",
+    position: "Finance",
+    photo: "/images/team/DilekhaNethmini.jpg",
+    email: "dilekha.lokuweerasekara@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/dilekhanethmini",
+  },
+  {
+    name: "Kaweesha Lakshan",
+    position: "Partnership Development",
+    photo: "/images/team/KaweeshaLakshan.jpg",
+    email: "kaweesha.lakshan@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/kaweesha-lakshan-154662390",
+  },
+  {
+    name: "Praveen Madawalage",
+    position: "Partnership Development",
+    photo: "/images/team/PraveenMadawalage.jpg",
+    email: "praveen.madawalage@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/praveen-madawalage-a86517353",
+  },
+  {
+    name: "Kethaki Wijesooriya",
+    position: "Partnership Development",
+    photo: "/images/team/KethakiWijesooriya.jpg",
+    email: "kethaki.wijesooriya@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/kethaki-wijesooriya-6b782a326",
+  },
+  {
+    name: "Habikugasarma Kuganeshwarasarma",
+    position: "Marketing",
+    photo: "/images/team/HabikugasarmaKuganeshwarasarma.jpg",
+    email: "habikugasarma@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/habikugasarma-k",
+  },
+  {
+    name: "Sasivarnasarma Sarvewarasarma",
+    position: "Marketing",
+    photo: "/images/team/SasivarnasarmaSarvewarasarma.jpg",
+    email: "sasivarnasarma@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/Sasivarnasarma",
+  },
+  {
+    name: "Nemitha Pathirana",
+    position: "Marketing",
+    photo: "/images/team/NemithaRuwanPathirana.jpg",
+    email: "nemitharuwanpathirana@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/nemitha-ruwan-pathirana-698b65274",
+  },
+  {
+    name: "Kavindi Dunston",
+    position: "Marketing",
+    photo: "/images/team/KavindiDunston.jpg",
+    email: "kavindi.dunston@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/kavindi-d-60965930a/",
+  },
+  {
+    name: "Senanga Walpola",
+    position: "Delegates & Public Relations",
+    photo: "/images/team/SenangaWalpola.jpg",
+    email: "senanga.walpola@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/senanga-walpola-4807523b0/",
+  },
+  {
+    name: "Chanuli Abeysinghe",
+    position: "Delegates & Public Relations",
+    photo: "/images/team/ChanuliAbeysinghe.jpg",
+    email: "chanuli.abeysinghe@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/chanuli-abeysinghe",
+  },
+  {
+    name: "Kiara Perera",
+    position: "Delegates & Public Relations",
+    photo: "/images/team/KiaraPerera.jpg",
+    email: "kiara.perera@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/kiara-perera-11969441b",
+  },
+  {
+    name: "Thenuri Pramuditha",
+    position: "Events & Logistics",
+    photo: "/images/team/ThenuriPramuditha.jpg",
+    email: "thenuri.pramuditha@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/thenuri",
+  },
+  {
+    name: "Ihansi Attanayaka",
+    position: "Events & Logistics",
+    photo: "/images/team/IhansiAttanayaka.jpg",
+    email: "ihansi.attanayaka@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/ihansi-attanayaka",
+  },
+  {
+    name: "Dayaleeswaran Ketheeswaran",
+    position: "Events & Logistics",
+    photo: "/images/team/KetheeswaranDayaleeswaran.jpg",
+    email: "dayaleeswaran.ketheeswaran@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/dayaleeswaran-ketheeswaran-4a54a0375",
+  },
+  {
+    name: "Thoorya Rathnayake",
+    position: "Events & Logistics",
+    photo: "/images/team/ThooryaRathnayake.jpg",
+    email: "thoorya.rathnayake@aiesec.net",
+    linkedIn: "https://www.linkedin.com/in/thoorya-rathnayake-124161358",
+  },
+];
