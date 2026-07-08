@@ -8,9 +8,9 @@ export const contactIntro: SectionIntro = {
 };
 
 export const contactInfo = {
-  whatsapp: "+94 77 144 7816",
-  email: "sasivarnasarma@aiesec.net",
-  phone: "+94 77 144 7816",
+  whatsapp: "+94 76 836 0450",
+  email: "sasiru.randeni@aiesec.net",
+  phone: "+94 76 836 0450",
   location: "University of Kelaniya, Sri Lanka",
   locationLink: "https://maps.google.com/?q=University+of+Kelaniya",
   successMessage: "Thank you for reaching out. We'll get back to you as soon as possible.",
@@ -19,7 +19,7 @@ export const contactInfo = {
 
 export const socialLinks: SocialLink[] = [
   { label: "Facebook", href: "https://facebook.com/AIESECLK" },
-  { label: "Instagram", href: "https://www.instagram.com/aiesecsrilanka/" },
+  { label: "Instagram", href: "https://www.instagram.com/aiesecinsrilanka" },
   { label: "LinkedIn", href: "https://www.linkedin.com/company/aieseclk/" },
   { label: "YouTube", href: "https://www.youtube.com/@AIESECinSriLanka" },
   { label: "TikTok", href: "https://www.tiktok.com/@aiesecinsrilanka" },

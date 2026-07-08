@@ -55,7 +55,7 @@ export const navigation: NavItem[] = [
   { label: "Contact", href: "#contact" },
 ];
 
-export const whatsappNumber = "+94 77 144 7816";
+export const whatsappNumber = "+94 76 836 0450";
 
 export const donorCta: CtaLink = {
   label: "Be a Donor",

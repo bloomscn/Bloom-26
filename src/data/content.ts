@@ -19,7 +19,7 @@ export const about: SectionIntro & { paragraphs: string[] } = {
     "Bloom '26 brings students, donors, partners, and communities together around one practical mission: strengthen healthcare where resources are limited.",
   paragraphs: [
     "The project supports Galaha Divisional Hospital by providing essential medical equipment, healthcare supplies, and infrastructure improvements that strengthen patient care.",
-    "Bloom '26 is more than a fundraising initiative. It is a commitment to sustainable social impact led by AIESEC in the University of Kelaniya.",
+    "Bloom '26 is a fundraising initiative. It is a commitment to sustainable social impact led by AIESEC in the University of Kelaniya.",
   ],
 };
 
@@ -38,13 +38,13 @@ export const whyBloom: SectionIntro & { points: ImpactPoint[] } = {
     {
       title: "Community wellbeing",
       description:
-        "Helping rural families receive safer and more reliable treatment closer to home.",
+        "Helping every family access safe, reliable care at the hospital closest to them.",
       icon: HeartHandshake,
     },
     {
       title: "Long-term value",
       description:
-        "Focusing contributions on practical improvements that continue serving the hospital after the campaign.",
+        "Focusing contributions on essential improvements that continue serving the hospital after the campaign.",
       icon: ShieldCheck,
     },
     {
