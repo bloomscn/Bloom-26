@@ -8,7 +8,7 @@ export const hero = {
   description:
     "A student-led CSR initiative supporting Galaha Divisional Hospital through essential medical equipment, healthcare supplies, and infrastructure improvements.",
   image:
-    "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=1800&q=85",
+    "images/hero.jpg",
   imageAlt: "Healthcare professional holding hands with a patient",
 };
 
@@ -59,7 +59,7 @@ export const whyBloom: SectionIntro & { points: ImpactPoint[] } = {
 export const countdown = {
   label: "Countdown",
   heading: "Bloom '26 begins in",
-  eventDate: "2026-08-15T09:00:00+05:30",
+  eventDate: "2026-08-25T09:00:00+05:30",
 };
 
 export const fundraising = {
